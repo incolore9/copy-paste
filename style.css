@@ -145,3 +145,8 @@ nav {
   transform: translate(-5%);
   animation: textLoop 5s infinite;
 }
+
+.itemBox {
+  width: 16.667%;
+  height: 300px;
+}
